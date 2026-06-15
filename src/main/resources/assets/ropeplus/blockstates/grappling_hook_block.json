@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "ropeplus:block/grappling_hook_block" }
+  }
+}

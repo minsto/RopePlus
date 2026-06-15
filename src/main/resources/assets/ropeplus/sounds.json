@@ -1,0 +1,27 @@
+{
+  "hookshot_fire": {
+    "category": "player",
+    "sounds": ["ropeplus:hookshotfire"]
+  },
+  "hookshot_pull": {
+    "category": "player",
+    "sounds": ["ropeplus:hookshotpull"]
+  },
+  "jungle_king": {
+    "category": "player",
+    "sounds": ["ropeplus:jungleking"]
+  },
+  "rope_tension": {
+    "category": "player",
+    "sounds": [
+      "ropeplus:ropetension0",
+      "ropeplus:ropetension1",
+      "ropeplus:ropetension2",
+      "ropeplus:ropetension3"
+    ]
+  },
+  "zipline": {
+    "category": "player",
+    "sounds": ["ropeplus:zipline"]
+  }
+}

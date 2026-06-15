@@ -1,0 +1,11 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["X", "#", "Y"],
+  "key": {
+    "X": { "item": "minecraft:wheat_seeds" },
+    "#": { "item": "minecraft:stick" },
+    "Y": { "item": "minecraft:feather" }
+  },
+  "result": { "id": "ropeplus:seed_arrow", "count": 4 }
+}

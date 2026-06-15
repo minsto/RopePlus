@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["AXA", "A#A", "AYA"],
+  "key": {
+    "A": { "item": "minecraft:iron_ingot" },
+    "X": { "item": "ropeplus:grappling_hook" },
+    "#": { "item": "ropeplus:rope" },
+    "Y": { "item": "minecraft:piston" }
+  },
+  "result": { "id": "ropeplus:hookshot", "count": 1 }
+}
