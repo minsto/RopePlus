@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "ropeplus:dirt_arrow",
+    "ropeplus:exploding_arrow",
+    "ropeplus:fire_arrow",
+    "ropeplus:seed_arrow",
+    "ropeplus:frost_arrow",
+    "ropeplus:penetrating_arrow",
+    "ropeplus:slime_arrow",
+    "ropeplus:torch_arrow",
+    "ropeplus:warp_arrow",
+    "ropeplus:confusing_arrow",
+    "ropeplus:rope_arrow",
+    "ropeplus:redstone_torch_arrow",
+    "ropeplus:egg_arrow",
+    "ropeplus:mob_arrow"
+  ]
+}

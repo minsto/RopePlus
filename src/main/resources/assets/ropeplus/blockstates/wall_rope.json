@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "ropeplus:block/wall_rope" },
+    "facing=west": { "model": "ropeplus:block/wall_rope", "y": 90 },
+    "facing=north": { "model": "ropeplus:block/wall_rope", "y": 180 },
+    "facing=east": { "model": "ropeplus:block/wall_rope", "y": 270 }
+  }
+}
